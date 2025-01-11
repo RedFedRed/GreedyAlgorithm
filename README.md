@@ -1,1 +1,1 @@
-# MSIT.Research
+Greedy Algorithm Prototype
