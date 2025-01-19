@@ -1,1 +1,1 @@
-Greedy Algorithm Prototype
+Prototype of Automated Scheduling System using Greedy Algorithm
